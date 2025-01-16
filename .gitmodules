@@ -1,0 +1,6 @@
+[submodule "l-place-front-end"]
+	path = l-place-front-end
+	url = https://github.com/LuckySevenLeeThree/l-place-front-end
+[submodule "l-place-back-end"]
+	path = l-place-back-end
+	url = https://github.com/LuckySevenLeeThree/l-place-back-end

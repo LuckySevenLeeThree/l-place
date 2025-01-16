@@ -73,4 +73,5 @@
   - [채팅 기능 추가](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/1)
 ## 🛠️ 프로젝트 아키텍쳐
 
+## 📊 ERD
 

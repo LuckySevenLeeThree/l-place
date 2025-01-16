@@ -10,10 +10,10 @@
 - 배포 : 
 
 ## 💁‍♂️ 프로젝트 팀원
-| BE & FE | DevOps | BE & FE |
+| BE & FE  | BE & FE | DevOps
 |:---:|:---:|:---:|
-| ![](https://github.com/Hello-LSY.png?size=120) | ![](https://github.com/lee-JunR.png?size=120) | ![](https://github.com/realcold0.png?size=120) |
-| [이신영](https://github.com/Hello-LSY)         | [이준렬](https://github.com/lee-JunR)          | [이승환](https://github.com/realcold0)
+| ![](https://github.com/Hello-LSY.png?size=120)  | ![](https://github.com/realcold0.png?size=120) | ![](https://github.com/lee-JunR.png?size=120)
+| [이신영](https://github.com/Hello-LSY)         |  [이승환](https://github.com/realcold0) | [이준렬](https://github.com/lee-JunR)          
 
 
 ## 화면 구성
@@ -56,8 +56,21 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
+## 🤔 기술적 이슈와 해결 과정
 
-
+- 실시간성을 어떻게 보장할까?
+  - [비트필드 방안](https://github.com/LuckySevenLeeThree/l-place-back-end/pull/1)
+    - [비트필드 오류 수정](https://github.com/LuckySevenLeeThree/l-place-back-end/pull/7)
+  - [dom -> canvas방식으로 최적화](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/2)
+- 서버 운영 시 과부하가 발생한다면 어떻게 체크해야할까?
+  - [grafana + promethus 모니터링 구성하기](https://github.com/LuckySevenLeeThree/l-place-back-end/issues/4)
+- 픽셀아트 서비스를 어떻게 개선해야할까?
+  - 실시간 캔버스 수정
+    - [팔레트 ui 수정, 줌, 드래그 수정 1차](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/3)
+    - [드래그, 줌 수정 2차](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/5)
+  - [사용자 커서 기능 추가](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/4)
+    - [커서 오류 수정](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/7)
+  - [채팅 기능 추가](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/1)
 ## 🛠️ 프로젝트 아키텍쳐
 
 

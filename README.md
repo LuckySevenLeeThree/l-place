@@ -71,7 +71,12 @@
   - [사용자 커서 기능 추가](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/4)
     - [커서 오류 수정](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/7)
   - [채팅 기능 추가](https://github.com/LuckySevenLeeThree/l-place-front-end/pull/1)
-## 🛠️ 프로젝트 아키텍쳐
 
-## 📊 ERD
+## 📚 기획 문서
+
+### Project Architecture
+![lplace drawio (1)](https://github.com/user-attachments/assets/2bd0f37e-7691-4bb7-a9f9-e2d804456865)
+
+### User Flow
+![lp_userflow drawio](https://github.com/user-attachments/assets/7c69dbe0-2d65-4e7a-b92a-ef7c7bb0b654)
 

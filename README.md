@@ -19,8 +19,7 @@
 ## 화면 구성
 |실시간 캔버스|채팅|
 |:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="400"/>|<img src="https://github.com/user-attachments/assets/25c8ad40-e65c-4067-8a95-da2d252e6810" width="400"/>|
-
+|<img src="https://github.com/user-attachments/assets/246ea1a8-2abf-45db-b3af-dad24cf7aaab" width="400"/>|<img src="https://github.com/user-attachments/assets/25c8ad40-e65c-4067-8a95-da2d252e6810" width="400"/>|
 
 
 ## **⚙ 기술 스택**

@@ -74,8 +74,10 @@
 ## 📚 기획 문서
 
 ### Project Architecture
-![lplace drawio (1)](https://github.com/user-attachments/assets/2bd0f37e-7691-4bb7-a9f9-e2d804456865)
+![lpup drawio](https://github.com/user-attachments/assets/12c96d19-0db4-4a19-b9a5-255c705aa36d)
+
 
 ### User Flow
-![lpup drawio](https://github.com/user-attachments/assets/12c96d19-0db4-4a19-b9a5-255c705aa36d)
+![lp_userflow drawio](https://github.com/user-attachments/assets/71080a2d-926c-4154-a424-7eee0832502a)
+
 

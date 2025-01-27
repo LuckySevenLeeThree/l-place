@@ -15,11 +15,12 @@
 | ![](https://github.com/Hello-LSY.png?size=120)  | ![](https://github.com/realcold0.png?size=120) | ![](https://github.com/lee-JunR.png?size=120)
 | [이신영](https://github.com/Hello-LSY)         |  [이승환](https://github.com/realcold0) | [이준렬](https://github.com/lee-JunR)          
 
+<img src="https://github.com/user-attachments/assets/246ea1a8-2abf-45db-b3af-dad24cf7aaab" width="400"/>
 
 ## 화면 구성
 |실시간 캔버스|채팅|
 |:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/246ea1a8-2abf-45db-b3af-dad24cf7aaab" width="400"/>|<img src="https://github.com/user-attachments/assets/25c8ad40-e65c-4067-8a95-da2d252e6810" width="400"/>|
+|<img src="https://github.com/user-attachments/assets/cfa547b9-8eea-485c-8050-45452cf99bd2" width="400"/>|<img src="https://github.com/user-attachments/assets/25c8ad40-e65c-4067-8a95-da2d252e6810" width="400"/>|
 
 
 ## **⚙ 기술 스택**

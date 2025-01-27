@@ -15,7 +15,7 @@
 | ![](https://github.com/Hello-LSY.png?size=120)  | ![](https://github.com/realcold0.png?size=120) | ![](https://github.com/lee-JunR.png?size=120)
 | [이신영](https://github.com/Hello-LSY)         |  [이승환](https://github.com/realcold0) | [이준렬](https://github.com/lee-JunR)          
 
-<img src="https://github.com/user-attachments/assets/246ea1a8-2abf-45db-b3af-dad24cf7aaab" width="400"/>
+<img src="https://github.com/user-attachments/assets/246ea1a8-2abf-45db-b3af-dad24cf7aaab"/>
 
 ## 화면 구성
 |실시간 캔버스|채팅|
